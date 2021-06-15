@@ -1,0 +1,7 @@
+node_modules/
+docs/
+bin/
+obj/
+.vscode/
+.yo-rc.json
+debug.log

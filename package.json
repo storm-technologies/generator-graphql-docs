@@ -1,0 +1,20 @@
+{
+  "name": "generator-graphql-docs",
+  "version": "0.1.0",
+  "description": "GraphQL Documentation CLI ",
+  "keywords": [
+    "yo graphql-docs"
+  ],
+  "author": "Victor Saly",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^1.0.0",
+    "yeoman-option-or-prompt": "^2.0.1",
+    "graphql":"^15.5.0",
+    "node-fetch":"^2.6.1",
+    "fs-extra": "^8.1.0"
+  },
+  "files": [
+    "app"
+  ]
+}
